@@ -13,11 +13,23 @@ git clone <ใส่-URL-Repository-ของครู>
 ```
 
 เปลี่ยนชื่อ-นามสกุลให้เป็นของตัวเอง
-สร้าง reppo ใหม่และ push code ของตัวเอง
+สร้าง repo ใหม่และ push code ของตัวเอง
 ```bash
 git remote add origin <ใส่-URL-Repository-ตัวเอง>
 git add .
 git commit -m "feat: update my student profile"
 git push -u origin main
 ```
+### 2. Deploy ขึ้นบน Vercel (Cloud Deployment)
+ล็อกอินเข้าสู่ระบบที่ Vercel.com ด้วยบัญชี GitHub
+
+บนหน้า Dashboard ให้กดปุ่ม "Add New..." ➔ เลือก "Project"
+
+ระบบจะแสดงรายการ Repository บน GitHub ของคุณ ให้กดปุ่ม "Import" ที่โปรเจกต์ my-first-cloud-card
+
+ปล่อยการตั้งค่า Build & Output Settings เป็นค่าเริ่มต้น แล้วกด "Deploy"
+
+รอระบบ Build ประมาณ 10–20 วินาที เมื่อเสร็จเรียบร้อย ให้กดเข้าไปดูผลลัพธ์ผ่าน URL ที่ Vercel ออกให้อัตโนมัติ! ✨
+
+### ส่งลิงก์ของตัวเองผ่าน classroom
 
