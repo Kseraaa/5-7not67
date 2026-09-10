@@ -25,7 +25,7 @@ git push -u origin main
 
 บนหน้า Dashboard ให้กดปุ่ม "Add New..." ➔ เลือก "Project"
 
-ระบบจะแสดงรายการ Repository บน GitHub ของคุณ ให้กดปุ่ม "Import" ที่โปรเจกต์ my-first-cloud-card
+ระบบจะแสดงรายการ Repository บน GitHub ของคุณ ให้กดปุ่ม "Import" โปรเจกต์ของตัวเอง
 
 ปล่อยการตั้งค่า Build & Output Settings เป็นค่าเริ่มต้น แล้วกด "Deploy"
 
