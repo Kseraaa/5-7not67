@@ -9,7 +9,7 @@
 ### 1. Clone โปรเจกต์ลงเครื่อง
 เปิด Terminal แล้วรันคำสั่ง:
 ```bash
-git clone <ใส่-URL-Repository-ของครู>
+git clone https://github.com/Kseraaa/5-7not67.git
 ```
 
 เปลี่ยนชื่อ-นามสกุลให้เป็นของตัวเอง
